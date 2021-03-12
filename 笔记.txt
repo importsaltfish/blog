@@ -29,3 +29,8 @@ e.涉及文件上传时，form需要有enctype属性
 f.在使用mongoose时遇到了populat（）方法查询到的数据传输到渲染模板时报错，解决方法：加上.lean() , (在artivles.js遇到)
 g.在js文件中获取环境变量: process.env
 h.用到删除html标签的方法：.replace(/<[^>]+>/g, '')
+
+
+
+
+。。。。
